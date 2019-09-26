@@ -1,3 +1,2 @@
 # hello-world
-A bit about me.....
-more edits but keeping the branch the same
+Julie overwrites the previous branch edits with this branch, Julies edits.
